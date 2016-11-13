@@ -1,0 +1,11 @@
+table .login_btn1, .login_btn2 {
+	border: 0;
+	background: url(../images/btn_bg_blank.png);
+	width: 80px;
+	height: 28px;
+	line-height: 28px;
+	font-family: "Î¢ÈíÑÅºÚ", "ºÚÌå", "ËÎÌå";
+	font-size: 14px;
+	color: #052d46;
+	font-weight: bold;
+}

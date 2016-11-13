@@ -1,0 +1,32 @@
+.div-inline-right {
+            float: left;
+}
+
+#exampleInputFile, label, .form-control {
+            width: 60%;
+            float: right;
+}
+
+.btn {
+            right: 70%;
+            float: right;
+}
+
+.navbar-brand {
+            float: right;
+}
+#exampleInputFile1, label, .row-count, .img, .name, .id, .col-count {
+            width: 60%;
+            float: right;
+}
+
+.sure {
+            float: right;
+}
+
+.div-inline-left {
+            float: left;
+}
+.studio_name_text {
+      color : #00FFFF;
+}
